@@ -1,0 +1,639 @@
+#EXTM3U
+#央视高清
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png", CCTV1HD
+#主源
+http://192.168.1.88:5140/rtp/239.49.8.19:9614?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.0.207:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源2
+http://192.168.1.88:5140/rtp/239.49.8.129:6000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV2.png", CCTV2HD
+#主源
+http://192.168.1.88:5140/rtp/239.49.8.50:9802?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.8.130:6000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV3.png", CCTV3HD
+#主源
+http://192.168.1.88:5140/rtp/239.49.8.74:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.0.28:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4.png", CCTV4HD
+#主源
+http://192.168.1.88:5140/rtp/239.49.8.51:9806?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.8.131:6000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png", CCTV5HD
+#主源
+http://192.168.1.88:5140/rtp/239.49.8.75:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.0.29:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源2
+http://192.168.1.88:5140/rtp/239.49.0.206:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV5+" group-title="央视高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5+.png", CCTV5+HD
+http://192.168.1.88:5140/rtp/239.49.8.18:9610?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV6.png", CCTV6HD
+#主源
+http://192.168.1.88:5140/rtp/239.49.8.76:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.0.73:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV7.png", CCTV7HD
+http://192.168.1.88:5140/rtp/239.49.0.126:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV8.png", CCTV8HD
+#主源
+http://192.168.1.88:5140/rtp/239.49.8.77:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.0.79:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV9.png", CCTV9HD
+http://192.168.1.88:5140/rtp/239.49.8.53:9814?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV10.png", CCTV10HD
+#主源
+http://192.168.1.88:5140/rtp/239.49.8.54:9818?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.8.134:6000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV11.png", CCTV11HD
+http://192.168.1.88:5140/rtp/239.49.0.127:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV12.png", CCTV12HD
+#主源
+http://192.168.1.88:5140/rtp/239.49.8.55:9822?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.8.135:6000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV13.png", CCTV13HD
+#主源
+http://192.168.1.88:5140/rtp/239.49.8.109:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.0.196:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源2
+http://192.168.1.88:5140/rtp/239.49.8.98:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV14.png", CCTV14HD
+#主源
+http://192.168.1.88:5140/rtp/239.49.8.56:9826?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.8.136:6000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV15.png", CCTV音乐HD
+http://192.168.1.88:5140/rtp/239.49.0.128:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV16.png", CCTV164K
+#主源
+http://192.168.1.88:5140/rtp/239.49.0.109:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.8.31:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV17.png", CCTV17HD
+#主源
+http://192.168.1.88:5140/rtp/239.49.8.52:9810?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.8.132:6000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" group-title="央视高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4K.png", CCTV4K
+http://192.168.1.88:5140/rtp/239.49.0.82:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" group-title="央视高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CETV1.png", CETV1HD
+http://192.168.1.88:5140/rtp/239.49.8.115:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" group-title="央视高清" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CETV4.png", CETV4HD
+http://192.168.1.88:5140/rtp/239.49.0.125:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" group-title="央视高清" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CGTN法语.png", CGTN法语HD
+http://192.168.1.88:5140/rtp/239.49.1.31:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" group-title="央视高清" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CGTN西语.png", CGTN西班牙语HD
+http://192.168.1.88:5140/rtp/239.49.1.30:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" group-title="央视高清" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CGTN俄语.png", CGTN俄语HD
+http://192.168.1.88:5140/rtp/239.49.0.111:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="CGTN英语" tvg-name="CGTN英语" group-title="央视高清" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CGTN英语.png", CGTN英语HD
+#主源
+http://192.168.1.88:5140/rtp/239.49.0.9:8064?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.1.9:6000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+
+#卫视
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏卫视4K.png", 江苏卫视4K
+#主源
+http://192.168.1.88:5140/rtp/239.49.1.62:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.1.61:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源2
+http://192.168.1.88:5140/rtp/239.49.8.16:9602?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源3
+http://192.168.1.88:5140/rtp/239.49.8.138:6000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/北京卫视4K.png", 北京卫视4K
+#主源
+http://192.168.1.88:5140/rtp/239.49.0.253:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.0.42:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源2
+http://192.168.1.88:5140/rtp/239.49.8.11:9414?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源3
+http://192.168.1.88:5140/rtp/239.49.8.141:6000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方卫视4K.png", 东方卫视4K
+#主源
+http://192.168.1.88:5140/rtp/239.49.1.70:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.1.69:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源2
+http://192.168.1.88:5140/rtp/239.49.8.38:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源3
+http://192.168.1.88:5140/rtp/239.49.8.17:9606?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源4
+http://192.168.1.88:5140/rtp/239.49.8.140:6000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/浙江卫视4K.png", 浙江卫视4K
+#主源
+http://192.168.1.88:5140/rtp/239.49.1.64:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.1.63:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源2
+http://192.168.1.88:5140/rtp/239.49.8.20:9618?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源3
+http://192.168.1.88:5140/rtp/239.49.8.139:6000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广东卫视4K.png", 广东卫视4K
+#主源
+http://192.168.1.88:5140/rtp/239.49.1.26:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.1.24:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源2
+http://192.168.1.88:5140/rtp/239.49.8.13:9422?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源3
+http://192.168.1.88:5140/rtp/239.49.8.143:6000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/深圳卫视4K.png", 深圳卫视4K
+#主源
+http://192.168.1.88:5140/rtp/239.49.1.28:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.1.27:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源2
+http://192.168.1.88:5140/rtp/239.49.8.15:9430?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源3
+http://192.168.1.88:5140/rtp/239.49.8.145:6000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/四川卫视4k.png", 四川卫视4K
+#主源
+http://192.168.1.88:5140/rtp/239.49.1.66:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.1.65:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源2
+http://192.168.1.88:5140/rtp/239.49.8.110:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/湖南卫视4K.png", 湖南卫视4K
+#主源
+http://192.168.1.88:5140/rtp/239.49.1.68:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.1.67:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源2
+http://192.168.1.88:5140/rtp/239.49.8.12:9418?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源3
+http://192.168.1.88:5140/rtp/239.49.8.142:6000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/山东卫视4K.png", 山东卫视4K
+#主源
+http://192.168.1.88:5140/rtp/239.49.1.72:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.1.71:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源2
+http://192.168.1.88:5140/rtp/239.49.8.7:9306?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源3
+http://192.168.1.88:5140/rtp/239.49.8.146:6000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/天津卫视.png", 天津卫视HD
+#主源
+http://192.168.1.88:5140/rtp/239.49.8.35:8620?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.8.148:6000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/安徽卫视.png", 安徽卫视HD
+#主源
+http://192.168.1.88:5140/rtp/239.49.8.80:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.8.204:6000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/黑龙江卫视.png", 黑龙江卫视HD
+#主源
+http://192.168.1.88:5140/rtp/239.49.8.14:9426?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.8.144:6000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/吉林卫视.png", 吉林卫视HD
+http://192.168.1.88:5140/rtp/239.49.8.113:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/辽宁卫视.png", 辽宁卫视HD
+http://192.168.1.88:5140/rtp/239.49.8.48:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/海南卫视.png", 海南卫视HD
+http://192.168.1.88:5140/rtp/239.49.8.83:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江西卫视.png", 江西卫视HD
+#主源
+http://192.168.1.88:5140/rtp/239.49.8.111:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.8.185:6000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东南卫视.png", 东南卫视HD
+http://192.168.1.88:5140/rtp/239.49.8.112:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-name="厦门卫视" tvg-id="厦门卫视" tvg-chno="116" group-title="卫视" tvg-logo="https://tb.zbds.top/logo/厦门卫视.png",厦门卫视
+http://192.168.1.88:5140/rtp/239.49.0.230:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/三沙卫视.png", 三沙卫视HD
+http://192.168.1.88:5140/rtp/239.49.0.167:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/河南卫视.png", 河南卫视HD
+http://192.168.1.88:5140/rtp/239.49.8.29:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/河北卫视.png", 河北卫视HD
+#主源
+http://192.168.1.88:5140/rtp/239.49.8.114:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.8.188:6000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/湖北卫视.png", 湖北卫视HD
+#主源
+http://192.168.1.88:5140/rtp/239.49.8.8:9632?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.8.147:6000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/重庆卫视.png", 重庆卫视HD
+#主源
+http://192.168.1.88:5140/rtp/239.49.8.57:9830?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.8.149:6000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广西卫视.png", 广西卫视HD
+http://192.168.1.88:5140/rtp/239.49.8.10:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/云南卫视.png", 云南卫视HD
+http://192.168.1.88:5140/rtp/239.49.0.177:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/贵州卫视.png", 贵州卫视HD
+http://192.168.1.88:5140/rtp/239.49.8.49:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/陕西卫视.png", 陕西卫视HD
+http://192.168.1.88:5140/rtp/239.49.1.74:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/甘肃卫视.png", 甘肃卫视HD
+http://192.168.1.88:5140/rtp/239.49.0.250:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/宁夏卫视.png", 宁夏卫视HD
+http://192.168.1.88:5140/rtp/239.49.1.60:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/青海卫视.png", 青海卫视HD
+http://192.168.1.88:5140/rtp/239.49.0.81:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/山西卫视.png", 山西卫视HD
+http://192.168.1.88:5140/rtp/239.49.1.55:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/西藏卫视.png", 西藏卫视HD
+http://192.168.1.88:5140/rtp/239.49.1.56:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/新疆卫视.png", 新疆卫视HD
+http://192.168.1.88:5140/rtp/239.49.1.57:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/内蒙古卫视.png", 内蒙古卫视HD
+http://192.168.1.88:5140/rtp/239.49.1.75:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/兵团卫视.png", 兵团卫视HD
+http://192.168.1.88:5140/rtp/239.49.1.58:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+
+
+
+#江苏频道
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="江苏频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏卫视.png", 江苏卫视HD
+http://192.168.1.88:5140/rtp/239.49.8.16:9602?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="江苏国际" tvg-name="江苏国际" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/江苏国际.png", 江苏国际HD
+http://192.168.1.88:5140/rtp/239.49.1.81:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/江苏城市.png", 江苏城市HD
+http://192.168.1.88:5140/rtp/239.49.8.107:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="江苏综艺" tvg-name="江苏综艺" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/江苏综艺.png", 江苏综艺HD
+http://192.168.1.88:5140/rtp/239.49.8.108:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="江苏体育休闲" tvg-name="江苏体育休闲" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/江苏休闲体育.png", 江苏体育休闲HD
+http://192.168.1.88:5140/rtp/239.49.8.117:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="江苏影视" tvg-name="江苏影视" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/江苏影视.png", 江苏影视HD
+http://192.168.1.88:5140/rtp/239.49.8.118:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="江苏新闻" tvg-name="江苏新闻" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/江苏公共新闻.png", 江苏新闻HD
+http://192.168.1.88:5140/rtp/239.49.8.120:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="江苏教育" tvg-name="江苏教育" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/江苏教育电视台.png", 江苏教育HD
+http://192.168.1.88:5140/rtp/239.49.8.122:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/财富天下.png", 财富天下HD
+http://192.168.1.88:5140/rtp/239.49.1.76:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+
+
+#EXTINF:-1 tvg-id="苏州新闻" tvg-name="苏州新闻" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/苏州新闻.png", 苏州新闻
+https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+#EXTINF:-1 tvg-id="苏州经济" tvg-name="苏州经济" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/苏州经济.png", 苏州经济 
+https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+#EXTINF:-1 tvg-id="苏州文化" tvg-name="苏州文化" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/苏州文化.png", 苏州文化
+ https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+#EXTINF:-1 tvg-id="苏州电影" tvg-name="苏州电影" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/苏州电影.png", 苏州电影 
+https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+
+#EXTINF:-1 tvg-id="苏州生活资讯" tvg-name="苏州生活资讯" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/苏州生活资讯.png", 苏州生活资讯
+#主源
+https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.8.116:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="吴江新闻综合" tvg-name="吴江新闻综合" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/苏州吴江新闻综合.png", 苏州吴江新闻综合
+https://30515.hlsplay.aodianyun.com/lms_30515/tv_channel_239.m3u8?auth_key=4849225473-0-0-ccc3233d52ea78642c7045805f46ea58&extra_key=kuPfWJHmelFzV3-zoreYDOH4OVvUscNtgFUPukN0LjrE7j9GbJe-1SiVIo_invs13HOTHPShIbZWuurqH8qWSk1Ouqm4Z10UlHpsUzS1j4nZoIRkEzTmKDOrVq3vGwbvmvC6qDLIKmmLHfFxL7WJeMpZZlN8MDPUoCW9CYoMIW0
+
+
+#EXTINF:-1 tvg-id="南京综合" tvg-name="南京综合" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/南京新闻综合.png", 南京综合
+#主源
+https://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.0.25:8192?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="南京影视" tvg-name="南京影视" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/南京影视.png", 南京影视
+http://192.168.1.88:5140/rtp/239.49.0.24:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="南京娱乐" tvg-name="南京娱乐" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/南京娱乐.png", 南京娱乐
+#主源
+https://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.0.38:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="南京少儿" tvg-name="南京少儿" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/南京少儿.png", 南京少儿
+#主源
+https://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.0.45:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="南京十八生活" tvg-name="南京十八生活" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/南京十八生活.png", 南京十八生活
+#主源
+https://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.0.26:8200?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="南京教科" tvg-name="南京教科" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/南京教科.png", 南京教科 
+https://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
+
+#EXTINF:-1 tvg-id="南京高淳新闻" tvg-name="南京高淳新闻" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/南京高淳新闻.png", 南京高淳新闻
+http://192.168.1.88:5140/rtp/239.49.0.74:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="无锡都市资讯" tvg-name="无锡都市资讯" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/无锡都市资讯.png", 无锡都市资讯
+http://192.168.1.88:5140/rtp/239.49.1.78:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="无锡新闻综合" tvg-name="无锡新闻综合" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/无锡新闻综合.png", 无锡新闻综合
+http://192.168.1.88:5140/rtp/239.49.1.77:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="江阴新闻综合" tvg-name="江阴新闻综合" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/无锡江阴新闻综合.png", 无锡江阴新闻综合
+http://221.228.70.101:8080/live/xinwen.m3u8
+
+
+#EXTINF:-1 tvg-id="常州公共" tvg-name="常州公共" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/常州公共.png", 常州公共
+http://192.168.1.88:5140/rtp/239.49.0.218:9582?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="常州生活" tvg-name="常州生活" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/常州生活.png", 常州生活
+http://192.168.1.88:5140/rtp/239.49.0.219:9586?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="常州都市" tvg-name="常州都市" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/常州都市.png", 常州都市
+http://192.168.1.88:5140/rtp/239.49.0.220:9590?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="常州金坛电视台" tvg-name="常州金坛电视台" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/常州金坛新闻频道.png", 常州金坛电视台
+#主源
+http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.1.54:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="常州武进新闻" tvg-name="常州武进新闻" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/常州武进新闻.png", 常州武进新闻
+https://live.wjyanghu.com/live/CH1.m3u8?zjiangsd
+#EXTINF:-1 tvg-id="常州武进生活" tvg-name="常州武进生活" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/常州武进生活.png", 常州武进生活
+武进生活 https://live.wjyanghu.com/live/CH2.m3u8?zjiangsd
+#EXTINF:-1 tvg-id="徐州1" tvg-name="徐州1" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/徐州1.png", 徐州1
+#主源
+http://stream3.huaihai.tv/xz4t/sd/live.m3u8
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.0.203:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+
+#EXTINF:-1 tvg-id="徐州2" tvg-name="徐州2" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/徐州2.png", 徐州2
+http://192.168.1.88:5140/rtp/239.49.0.199:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="徐州3" tvg-name="徐州3" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/徐州3.png", 徐州3
+#主源
+http://stream3.huaihai.tv/xz3t/sd/live.m3u8
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.0.211:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="徐州4" tvg-name="徐州4" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/徐州4.png", 徐州4
+http://192.168.1.88:5140/rtp/239.49.0.216:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="徐州邳州综合" tvg-name="徐州邳州综合" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/徐州邳州综合.png", 徐州邳州综合
+http://192.168.1.88:5140/rtp/239.49.0.182:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="徐州新沂1" tvg-name="徐州新沂1" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/徐州新沂1.png", 徐州新沂1
+http://192.168.1.88:5140/rtp/239.49.0.238:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="徐州睢宁综合" tvg-name="徐州睢宁综合" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/徐州睢宁综合.png", 徐州睢宁综合
+http://192.168.1.88:5140/rtp/239.49.0.239:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="徐州睢宁三农" tvg-name="徐州睢宁三农" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/徐州睢宁三农.png", 徐州睢宁三农
+http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8?zjiangsd
+#EXTINF:-1 tvg-id="徐州贾汪新闻" tvg-name="徐州贾汪新闻" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/徐州贾汪新闻.png", 徐州贾汪新闻
+http://192.168.1.88:5140/rtp/239.49.0.248:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="徐州铜山1" tvg-name="徐州铜山1" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/徐州铜山1.png", 徐州铜山1
+http://192.168.1.88:5140/rtp/239.49.0.163:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="徐州沛县新闻综合" tvg-name="徐州沛县新闻综合" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/徐州沛县新闻综合频道.png", 徐州沛县新闻综合HD
+http://192.168.1.88:5140/rtp/239.49.0.214:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+
+#EXTINF:-1 tvg-id="泰州1" tvg-name="泰州1" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/泰州1.png", 泰州1
+http://192.168.1.88:5140/rtp/239.49.0.215:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="泰州3" tvg-name="泰州3" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/泰州3.png", 泰州3HD
+http://192.168.1.88:5140/rtp/239.49.0.102:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="泰州兴化新闻综合" tvg-name="泰州兴化新闻综合" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/泰州兴化新闻综合.png", 泰州兴化新闻综合HD
+http://192.168.1.88:5140/rtp/239.49.0.162:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="泰州泰兴综合" tvg-name="泰州泰兴综合" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/泰州泰兴综合.png", 泰州泰兴综合HD
+http://192.168.1.88:5140/rtp/239.49.0.168:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="泰州靖江新闻综合" tvg-name="泰州靖江新闻综合" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/泰州靖江新闻综合.png", 泰州靖江新闻综合
+http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="淮安综合" tvg-name="淮安综合" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/淮安综合.png", 淮安综合
+http://192.168.1.88:5140/rtp/239.49.0.204:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="淮安公共" tvg-name="淮安公共" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/淮安公共.png", 淮安公共
+http://192.168.1.88:5140/rtp/239.49.0.181:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="淮安影视娱乐" tvg-name="淮安影视娱乐" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/淮安影视娱乐.png", 淮安影视娱乐
+http://192.168.1.88:5140/rtp/239.49.0.192:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="淮安淮阴综合" tvg-name="淮安淮阴综合" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/淮安淮阴综合.png", 淮安淮阴综合
+http://192.168.1.88:5140/rtp/239.49.0.169:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="淮安洪泽1" tvg-name="淮安洪泽1" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/淮安洪泽1.png", 淮安洪泽1
+http://192.168.1.88:5140/rtp/239.49.0.89:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="淮安盱眙综合" tvg-name="淮安盱眙综合" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/淮安盱眙综合.png", 淮安盱眙综合
+http://192.168.1.88:5140/rtp/239.49.0.237:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="金湖新闻综合" tvg-name="金湖新闻综合" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/淮安金湖新闻综合.png", 淮安金湖新闻综合
+http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8
+
+
+#EXTINF:-1 tvg-id="宿迁宿豫综合" tvg-name="宿迁宿豫综合" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/宿迁宿豫综合.png", 宿迁宿豫综合
+#主源
+https://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.0.83:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="宿迁沭阳综合" tvg-name="宿迁沭阳综合" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/宿迁沭阳综合.png", 宿迁沭阳综合
+http://192.168.1.88:5140/rtp/239.49.0.189:8792?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="宿迁泗洪综合" tvg-name="宿迁泗洪综合" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/宿迁泗洪综合.png", 宿迁泗洪综合
+#主源
+http://192.168.1.88:5140/rtp/239.49.0.195:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe.m3u8?zjiangsd
+
+#EXTINF:-1 tvg-id="宿迁泗阳综合" tvg-name="宿迁泗阳综合" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/宿迁泗阳综合.png", 宿迁泗阳综合
+#主源
+http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8?zjiangsd
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.0.249:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="泗阳资讯频道" tvg-name="泗阳资讯频道" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/宿迁泗阳资讯.png", 泗阳资讯频道
+http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8?zjiangsd
+
+
+
+#EXTINF:-1 tvg-id="盐城响水综合" tvg-name="盐城响水综合" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/盐城响水综合.png", 盐城响水综合
+http://192.168.1.88:5140/rtp/239.49.0.115:8912?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="盐城射阳新闻综合" tvg-name="盐城射阳新闻综合" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/盐城射阳新闻综合.png", 盐城射阳新闻综合
+http://192.168.1.88:5140/rtp/239.49.0.158:8912?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="东台综合频道" tvg-name="东台综合频道" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/盐城东台综合频道.png", 东台综合频道
+http://dongtai-tv-hls.cm.jstv.com/dongtai-tv/dongtaizonghe.m3u8
+
+
+
+#EXTINF:-1 tvg-id="连云港赣榆电视台" tvg-name="连云港赣榆电视台" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/连云港赣榆电视台.png", 连云港赣榆电视台
+http://192.168.1.88:5140/rtp/239.49.0.241:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="连云港东海综合" tvg-name="连云港东海综合" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/连云港东海综合.png", 连云港东海综合
+http://192.168.1.88:5140/rtp/239.49.0.121:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+
+
+#EXTINF:-1 tvg-id="盐城1" tvg-name="盐城1" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/盐城1（新闻综合）.png", 盐城1
+http://192.168.1.88:5140/rtp/239.49.8.30:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="盐都综合频道" tvg-name="盐都综合频道" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/盐都综合频道.png", 盐都综合频道
+http://yandu-tv-hls.cm.jstv.com/yandu-tv/yanduzh.m3u8
+
+#EXTINF:-1 tvg-id="南通3" tvg-name="南通3" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/南通3（公共频道）.png", 南通3
+http://192.168.1.88:5140/rtp/239.49.0.197:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="扬州高邮综合频道" tvg-name="扬州高邮综合频道" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/扬州高邮综合频道.png", 扬州高邮综合频道
+http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
+
+#EXTINF:-1 tvg-id="镇江新闻综合" tvg-name="镇江新闻综合" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/镇江新闻综合.png", 镇江新闻综合
+https://zjtv-wshls.homecdn.com/live/2aa50.m3u8
+#EXTINF:-1 tvg-id="镇江民生 " tvg-name="镇江民生 " group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/镇江民生.png", 镇江民生 
+http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+#EXTINF:-1 tvg-id="镇江句容生活 " tvg-name="镇江句容生活 " group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/a378351128/TVlogo/main/江苏频道电视台标/镇江句容生活.png", 镇江句容生活 
+http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?zjiangsd
+
+#特色频道
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" group-title="特色频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/快乐垂钓.png", 快乐垂钓HD
+http://192.168.1.88:5140/rtp/239.49.0.114:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" group-title="特色频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/四海钓鱼.png", 四海钓鱼HD
+http://192.168.1.88:5140/rtp/239.49.1.80:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" group-title="特色频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/中国天气.png", 中国天气HD
+http://192.168.1.88:5140/rtp/239.49.0.94:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" group-title="特色频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/金鹰卡通.png", 金鹰卡通HD
+http://192.168.1.88:5140/rtp/239.49.8.33:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" group-title="特色频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/优漫卡通.png", 优漫卡通HD
+http://192.168.1.88:5140/rtp/239.49.8.119:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="卡酷特色" tvg-name="卡酷特色" group-title="特色频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/卡酷少儿.png", 卡酷特色HD
+http://192.168.1.88:5140/rtp/239.49.0.148:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" group-title="特色频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/动漫秀场.png", 动漫秀场HD
+http://192.168.1.88:5140/rtp/239.49.8.43:8028?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" group-title="特色频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/都市剧场.png", 都市剧场HD
+#主源
+http://192.168.1.88:5140/rtp/239.49.8.45:8044?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.0.99:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" group-title="特色频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/欢笑剧场.png", 欢笑剧场4K
+#主源
+http://192.168.1.88:5140/rtp/239.49.8.106:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.8.47:8060?fcc=180.100.72.185:15970&fcc-type=telecom
+
+
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" group-title="特色频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/法治天地.png", 法治天地HD
+http://192.168.1.88:5140/rtp/239.49.0.96:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" group-title="特色频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/金鹰纪实.png", 金鹰纪实HD
+http://192.168.1.88:5140/rtp/239.49.8.79:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" group-title="特色频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/乐游.png", 乐游HD
+http://192.168.1.88:5140/rtp/239.49.8.44:8036?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" group-title="江苏频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/财富天下.png", 财富天下HD
+http://192.168.1.88:5140/rtp/239.49.1.76:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" group-title="特色频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/东方财经.png", 东方财经HD
+http://192.168.1.88:5140/rtp/239.49.0.95:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" group-title="特色频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/上海第一财经.png", 第一财经HD
+http://192.168.1.88:5140/rtp/239.49.8.37:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" group-title="特色频道" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/山东教育卫视.png", 山东教育卫视HD
+http://192.168.1.88:5140/rtp/239.49.0.252:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" group-title="特色频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/睛彩竞技.png", 睛彩竞技HD（限免）
+http://192.168.1.88:5140/rtp/239.49.8.39:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" group-title="特色频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/游戏风云.png", 游戏风云HD
+http://192.168.1.88:5140/rtp/239.49.8.41:8012?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" group-title="特色频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/睛彩篮球.png", 睛彩篮球HD（限免）
+http://192.168.1.88:5140/rtp/239.49.8.42:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" group-title="特色频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/先锋乒羽.png", 先锋乒羽
+http://192.168.1.88:5140/rtp/239.49.0.145:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" group-title="特色频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/武术世界.png", 武术世界HD
+http://192.168.1.88:5140/rtp/239.49.0.205:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" group-title="特色频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/睛彩青少.png", 睛彩青少HD（限免）
+http://192.168.1.88:5140/rtp/239.49.8.46:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" group-title="特色频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/睛彩广场舞.png", 睛彩广场舞HD（限免）
+http://192.168.1.88:5140/rtp/239.49.8.64:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="茶" tvg-name="茶" group-title="特色频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/茶.png", 茶HD
+http://192.168.1.88:5140/rtp/239.49.0.146:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#EXTINF:-1 tvg-id="梨园" tvg-name="梨园" group-title="特色频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/河南梨园.png", 梨园HD
+http://192.168.1.88:5140/rtp/239.49.8.193:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" group-title="特色频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/生活时尚.png", 生活时尚HD
+#主源
+http://192.168.1.88:5140/rtp/239.49.0.97:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+#备选源1
+http://192.168.1.88:5140/rtp/239.49.8.40:8004?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" group-title="特色频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/文物宝库.png", 文物宝库HD
+http://192.168.1.88:5140/rtp/239.49.0.209:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-name="书画频道" tvg-id="书画频道" group-title="特色频道" tvg-logo="https://tb.zbds.top/logo/书画频道.png",书画频道
+http://192.168.1.88:5140/rtp/239.49.0.123:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-name="天元围棋" tvg-id="天元围棋" group-title="特色频道" tvg-logo="https://tb.zbds.top/logo/天元围棋.png",天元围棋
+http://192.168.1.88:5140/rtp/239.49.1.79:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+#EXTINF:-1 tvg-id="环球购物" tvg-name="环球购物" group-title="特色频道" tvg-logo="https://github.boki.moe/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/聚鲨环球精选.png", 环球购物HD
+http://192.168.1.88:5140/rtp/239.49.8.123:8000?fcc=180.100.72.185:15970&fcc-type=telecom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
